@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\tanksgameplaystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\tanksgameplaystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\gameobjects\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\gameobjects\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\tanksgamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\tanksgamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\algoritm\\enemybrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\algoritm\\enemybrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\gameobjects\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\gameobjects\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\interfaces\\moveblegameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\interfaces\\moveblegameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\gameobjects\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\gameobjects\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\inputcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\inputcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\struct\\majorcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\struct\\majorcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\consoleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\consoleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\basegamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\basegamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\gameobjects\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\gameobjects\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\gameobjects\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\gameobjects\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\basegamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\basegamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\showtextstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\showtextstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|c:\\users\\boyko\\source\\repos\\tanksgamexyzproject\\tanksgamexyzproject\\struct\\sprites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B9542-FE24-4FBF-84AB-04969152FC75}|TanksGameXYZProject\\TanksGameXYZProject.csproj|solutionrelative:tanksgamexyzproject\\struct\\sprites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TanksGameplayState.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\TanksGameplayState.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\TanksGameplayState.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\TanksGameplayState.cs",
+              "RelativeToolTip": "TanksGameXYZProject\\TanksGameplayState.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAQwJgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:39:59.956Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\Program.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\Program.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\Program.cs*",
+              "RelativeToolTip": "TanksGameXYZProject\\Program.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:18:35.693Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovebleGameObject.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\Interfaces\\MovebleGameObject.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\Interfaces\\MovebleGameObject.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\Interfaces\\MovebleGameObject.cs",
+              "RelativeToolTip": "TanksGameXYZProject\\Interfaces\\MovebleGameObject.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T22:11:32.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyBrain.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\Algoritm\\EnemyBrain.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\Algoritm\\EnemyBrain.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\Algoritm\\EnemyBrain.cs",
+              "RelativeToolTip": "TanksGameXYZProject\\Algoritm\\EnemyBrain.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:12:22.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TanksGameLogic.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\TanksGameLogic.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\TanksGameLogic.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\TanksGameLogic.cs",
+              "RelativeToolTip": "TanksGameXYZProject\\TanksGameLogic.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAQwFwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:18:31.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\GameObjects\\Bullet.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\GameObjects\\Bullet.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\GameObjects\\Bullet.cs",
+              "RelativeToolTip": "TanksGameXYZProject\\GameObjects\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:59:42.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\GameObjects\\GameObject.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\GameObjects\\GameObject.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\GameObjects\\GameObject.cs",
+              "RelativeToolTip": "TanksGameXYZProject\\GameObjects\\GameObject.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvzUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:51:31.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tank.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\GameObjects\\Tank.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\GameObjects\\Tank.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\GameObjects\\Tank.cs",
+              "RelativeToolTip": "TanksGameXYZProject\\GameObjects\\Tank.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T20:13:50.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InputCommands.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\InputCommands.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\InputCommands.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\InputCommands.cs",
+              "RelativeToolTip": "TanksGameXYZProject\\InputCommands.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAewCEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T21:15:13.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MajorCell.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\Struct\\MajorCell.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\Struct\\MajorCell.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\Struct\\MajorCell.cs",
+              "RelativeToolTip": "TanksGameXYZProject\\Struct\\MajorCell.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:28:04.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsoleInput.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\ConsoleInput.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\ConsoleInput.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\ConsoleInput.cs",
+              "RelativeToolTip": "TanksGameXYZProject\\ConsoleInput.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwEMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T21:15:27.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseGameLogic.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\BaseGameLogic.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\BaseGameLogic.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\BaseGameLogic.cs",
+              "RelativeToolTip": "TanksGameXYZProject\\BaseGameLogic.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T06:16:37.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\GameObjects\\Wall.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\GameObjects\\Wall.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\GameObjects\\Wall.cs",
+              "RelativeToolTip": "TanksGameXYZProject\\GameObjects\\Wall.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:19:41.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Water.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\GameObjects\\Water.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\GameObjects\\Water.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\GameObjects\\Water.cs",
+              "RelativeToolTip": "TanksGameXYZProject\\GameObjects\\Water.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:56:30.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseGameState.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\BaseGameState.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\BaseGameState.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\BaseGameState.cs",
+              "RelativeToolTip": "TanksGameXYZProject\\BaseGameState.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:32:39.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShowTextState.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\ShowTextState.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\ShowTextState.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\ShowTextState.cs",
+              "RelativeToolTip": "TanksGameXYZProject\\ShowTextState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:45:07.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sprites.cs",
+              "DocumentMoniker": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\Struct\\Sprites.cs",
+              "RelativeDocumentMoniker": "TanksGameXYZProject\\Struct\\Sprites.cs",
+              "ToolTip": "C:\\Users\\boyko\\source\\repos\\TanksGameXYZProject\\TanksGameXYZProject\\Struct\\Sprites.cs",
+              "RelativeToolTip": "TanksGameXYZProject\\Struct\\Sprites.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T06:01:17.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

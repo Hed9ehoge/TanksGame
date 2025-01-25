@@ -1,0 +1,14 @@
+C:\Users\boyko\source\repos\TanksGameXYZProject\TanksGameXYZProject\bin\Debug\net8.0\TanksGameXYZProject.exe
+C:\Users\boyko\source\repos\TanksGameXYZProject\TanksGameXYZProject\bin\Debug\net8.0\TanksGameXYZProject.deps.json
+C:\Users\boyko\source\repos\TanksGameXYZProject\TanksGameXYZProject\bin\Debug\net8.0\TanksGameXYZProject.runtimeconfig.json
+C:\Users\boyko\source\repos\TanksGameXYZProject\TanksGameXYZProject\bin\Debug\net8.0\TanksGameXYZProject.dll
+C:\Users\boyko\source\repos\TanksGameXYZProject\TanksGameXYZProject\bin\Debug\net8.0\TanksGameXYZProject.pdb
+C:\Users\boyko\source\repos\TanksGameXYZProject\TanksGameXYZProject\obj\Debug\net8.0\TanksGameXYZProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boyko\source\repos\TanksGameXYZProject\TanksGameXYZProject\obj\Debug\net8.0\TanksGameXYZProject.AssemblyInfoInputs.cache
+C:\Users\boyko\source\repos\TanksGameXYZProject\TanksGameXYZProject\obj\Debug\net8.0\TanksGameXYZProject.AssemblyInfo.cs
+C:\Users\boyko\source\repos\TanksGameXYZProject\TanksGameXYZProject\obj\Debug\net8.0\TanksGameXYZProject.csproj.CoreCompileInputs.cache
+C:\Users\boyko\source\repos\TanksGameXYZProject\TanksGameXYZProject\obj\Debug\net8.0\TanksGameXYZProject.dll
+C:\Users\boyko\source\repos\TanksGameXYZProject\TanksGameXYZProject\obj\Debug\net8.0\refint\TanksGameXYZProject.dll
+C:\Users\boyko\source\repos\TanksGameXYZProject\TanksGameXYZProject\obj\Debug\net8.0\TanksGameXYZProject.pdb
+C:\Users\boyko\source\repos\TanksGameXYZProject\TanksGameXYZProject\obj\Debug\net8.0\TanksGameXYZProject.genruntimeconfig.cache
+C:\Users\boyko\source\repos\TanksGameXYZProject\TanksGameXYZProject\obj\Debug\net8.0\ref\TanksGameXYZProject.dll
